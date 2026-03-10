@@ -9,10 +9,7 @@ public class division {
         System.out.print( " enter the value of b ");
         b= in.nextDouble();
         div = a/b;
-        /*it is a basic program so divide by 0 zero 
-        condion is not mentioned yet intensionally
-        if (b==0){
-        System.out.println(" cannot divide by 0"); }*/
+        
         System.out.println(" division =  " +div);
         in.close();
 
