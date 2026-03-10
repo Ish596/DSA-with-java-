@@ -1,7 +1,7 @@
 import java.util.*;
 public class Switch
 {
-    public static void main( String []args)
+    public static void main( String[]args)
     {
         Scanner sc = new Scanner (System.in);
         double b,i, a;
@@ -9,13 +9,13 @@ public class Switch
         a = sc.nextDouble();
         System.out.print("enter 2nd value ");
         b = sc.nextDouble();
-        System.out.println("enter the operator for operation = '+','-' '*' '/' '%' ");
+        System.out.println("enter the operator = '+','-' '*' '/' '%' ");
         char op = sc.next().charAt(0);
     switch (op) 
     {
          case '+' :
         i = a+b;
-        System.out.println(" the addition of digits are " +i);
+        System.out.print(" the addition of digits are " +i);
         break;
 
         case '-':
@@ -40,7 +40,6 @@ public class Switch
 
                 default:
                 System.out.println("wrong choice ");
-
 
     }
     sc.close();
