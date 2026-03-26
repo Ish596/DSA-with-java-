@@ -1,5 +1,5 @@
 //example array
-package m_array;
+//package m_array;
 import java.util.*;
 public class a_array {
     public static void main(String []args )

@@ -1,5 +1,5 @@
 // max min from array
-package m_array;
+//package m_array;
 import java.util.*;
 public class darray 
 {

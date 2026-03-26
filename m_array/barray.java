@@ -1,5 +1,5 @@
 //linear search
-package m_array;
+//package m_array;
 import java.util.*;
 public class barray {
     public static void main(String args[]){
