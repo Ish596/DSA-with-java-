@@ -1,4 +1,4 @@
-package LOOP_PATTERN.patterns;
+//package LOOP_PATTERN.patterns;
 import java.util.*;
 public class pattern3 {
   

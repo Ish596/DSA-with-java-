@@ -1,4 +1,4 @@
-package LOOP_PATTERN.Loop;
+//package LOOP_PATTERN.Loop;
 import java.util.*;
 
 public class Forloop  {
